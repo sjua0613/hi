@@ -7,6 +7,6 @@
  + if ... : 명령문 elif ... : 명령문 else :
 + for문
  + range()
- + while()
+ + while
 
 # hi
