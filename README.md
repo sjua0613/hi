@@ -14,9 +14,9 @@
 + 출력 : print() -> f-string
 + 조건문
 + if문
- + if ... : 명령문 elif ... : 명령문 else :
+  + if ... : 명령문 elif ... : 명령문 else :
 + for문
- + range()
-  + while
+  + range()
+   + while
 
 # hi
